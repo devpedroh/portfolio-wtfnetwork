@@ -6,6 +6,8 @@ Um e-commerce para venda de produtos virtuais no jogo Minecraft.
 
 Este site foi desenvolvido para que o cliente possa realizar a venda de produtos virtuais no servidor de Minecraft que ele possui. Este site irá realizar a venda, através dos métodos de pagamento que o cliente desejar, tais como, PayPal, MercadoPago, PagSeguro e afins. Após uma venda realizada, o método de pagamento escolhido pelo comprador emitirá uma notificação (IPN) que o site irá reconhecer e tratar da forma correta... realizando a aprovação ou o cancelamento do pedido realizado.
 
+Você pode visualizar o site em produção acessando este link: https://wtfnetwork.com.br
+
 ## Imagens do site
 
 ### Inicio
